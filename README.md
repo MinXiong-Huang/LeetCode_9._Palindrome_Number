@@ -1,2 +1,2 @@
-# LeetCode_9._Palindrome_Number
- LeetCode_9._Palindrome_Number
+#### 題目:
+https://leetcode.com/problems/palindrome-number/
