@@ -5,9 +5,9 @@ class Solution(object):
         :rtype: bool
         """
     
-        x=str(x)
-        return x==x[::-1]
+        x = str(x)
+        return x == x[::-1]
 
 #Example
-s=Solution()
+s = Solution()
 s.isPalindrome(-121)
